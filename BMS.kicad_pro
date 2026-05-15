@@ -416,13 +416,17 @@
         "uuid": "7ef4fc43-f646-42d3-a332-ff3e71f6ed44"
       }
     ],
-    "used_designators": "",
+    "used_designators": "BT1-15",
     "variants": []
   },
   "sheets": [
     [
       "7ef4fc43-f646-42d3-a332-ff3e71f6ed44",
       "BMS"
+    ],
+    [
+      "fe7626f2-628b-405b-9e8b-935eab796127",
+      "BatteryConnections"
     ]
   ],
   "text_variables": {},
